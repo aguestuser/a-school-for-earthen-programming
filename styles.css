@@ -15,3 +15,15 @@ a:hover {
     color: magenta;
     cursor: pointer;
 }
+
+p:last-child {
+    color: #25b6db;
+}
+
+p:last-child a {
+    color: #25b6db;
+}
+
+p:last-child a:hover {
+    color: magenta;
+}
