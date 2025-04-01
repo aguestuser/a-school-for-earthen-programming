@@ -2,5 +2,16 @@ body {
     background-color: #25b6db;
     color: #e7dc27;
     font-family: "Courier", monospace;
-    margin: 5em;
+    margin: 8em auto;
+    width: 42em;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: magenta;
+    cursor: pointer;
 }
