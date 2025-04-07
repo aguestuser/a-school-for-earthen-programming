@@ -2,23 +2,37 @@
 
 lines=(
 "
-to be slow
+what we need
 "
-"to connect
-"
-"we remember
-"
-"how to hear
-"
-"what the earth needs
-"
-"how to meet those needs
+"            to remember
 "
 "we remember
 "
-"this is pleasurable
+"           to be slow
 "
-"even erotic
+"we remember
+"
+"           to connect
+"
+"we remember
+"
+"           how to hear
+"
+"                       what the earth needs
+"
+"we remember
+"
+"           how to meet
+"
+"                      the earth's needs
+"
+"we remember
+"
+"           this is pleasurable
+"
+"                               maybe even
+"
+"erotic
 
 ")
 

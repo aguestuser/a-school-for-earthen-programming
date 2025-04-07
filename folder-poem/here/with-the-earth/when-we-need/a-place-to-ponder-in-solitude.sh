@@ -12,7 +12,14 @@ lines=(
 "  we invited to conspire with us."
 )
 
+echo "🌳 🌳 🌳 🌳 🌳 🌳"
+echo ""
+echo "we <return> and..."
+
 for line in "${lines[@]}"; do
-    echo "$line"
     read
+    echo "$line"
 done
+
+echo ""
+echo "🌳 🌳 🌳 🌳 🌳 🌳"
