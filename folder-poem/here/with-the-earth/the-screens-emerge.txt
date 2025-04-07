@@ -1,4 +1,4 @@
-:
+
 
 
 from the darker folds     of the wilderness      as they are needed
@@ -38,7 +38,7 @@ When finished
                               ********
 
 
-when their help in making the    invisible visible    is needed once more.
+when their help in making the    invisible 
+                                          visible    is needed once more.
 
 
-:

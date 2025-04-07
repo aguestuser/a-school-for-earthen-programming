@@ -6,17 +6,19 @@ outside
       ...out of and into the trees organically. like Like mycelia, they transmit nutrients where they are needed. Only the nutrients are ideas, or songs, or a hug you didn’t know you needed.
     - the screens emerge
       ... from the darker folds of the wilderness as they are needed to help a student sketch out an idea or transmit a sly wink to the other side of the planet. When finished with each act of facilitation, the screens recede into a tree trunk or a bank of moss to decompose and listen and reemerge when their help in making the invisible visible is needed once more.
-    - we can
-      - live-here.txt
-      - come-and-go-as-we-please.txt
-    - every space can
-      - flow-into-any-other-space.sh
-      - rest-in-constant-motion.sh
     - when wee need
       - a collective meeting place
         ... the grasses part, the benches emerge from the soil, and the overhanging willows sway and keep us cozy as we deliberate.
-      - to ponder in isolation
+      - a place to ponder in isolation
         ... the trees gather and shelter us as we dive into solitude, held suspended in repose by the tendrils of the vines we invited to conspire with us.
+  - we can
+    - live-here.txt
+      - or come and go as we please
+  - every space can
+    - flow-into-any-other-space.sh
+      - or rest in the constant small movement of stillness
+
+
 
 we remember
 - to be slow
@@ -32,11 +34,10 @@ we come to understand
   - we have always been programming the earth
     - the earth begins to program us back
 - when we do so with care
-  - our programs reshape the fields
-  - the fields reshape our hearts
+  - our programs reshape the fields.txt
+  - the fields reshape our hearts.txt
   - we beging to become
-    - what we were always longing to become
-      - but-did-not have a name for.txt
+    - ...what we were always longing to become but did not have a name for
   - we learn to see
     - mutual disintegration
       - into the earth
