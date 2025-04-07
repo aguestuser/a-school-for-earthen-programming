@@ -27,3 +27,10 @@ p:last-child a {
 p:last-child a:hover {
     color: magenta;
 }
+
+@media (max-width: 768px) {
+    body {
+        width: auto;
+        margin: 2em;
+    }
+}
