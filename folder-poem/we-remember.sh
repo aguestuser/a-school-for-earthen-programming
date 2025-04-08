@@ -32,11 +32,12 @@ what we need
 "
 "                               maybe even
 "
-"erotic
-
-")
+)
 
 for line in "${lines[@]}"; do
     echo "$line"
     sleep 3
 done
+
+echo "erotic
+"
